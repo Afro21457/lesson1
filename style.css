@@ -1,0 +1,27 @@
+form {
+   
+    background-color:rgb(71, 51, 51);
+    text-align: center;
+    width: 500px;
+    height: 300px;
+
+
+}
+.text {
+    color: white;
+    font-size: 25px;
+}
+.but {
+    color: beige;
+    background-color: rgb(109, 109, 243);
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+input {
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    height: 40px;
+}
